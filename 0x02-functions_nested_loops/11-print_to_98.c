@@ -22,8 +22,8 @@ void print_to_98(int n)
 	{
 		for (j = n; j >=98; j--)
 		{
-			if (j != 98;)
-				printf("%d, ", j);
+			if (j != 98);
+			        printf("%d, ", j);
 			else if (j == 98)
 				printf("%d\n", j);
 		}
